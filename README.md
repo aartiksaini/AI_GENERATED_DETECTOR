@@ -8,7 +8,7 @@ You can access the deployed application here:
 👉 [AI Text Detector](https://aidetector01.streamlit.app/)
 
 ## 🖼️ Screenshot
-![AI Text Detector Working](https://raw.githubusercontent.com/aartik001/ai_text_detector/main/ai_detector.png)
+![AI Text Detector Working](ai_detector.png)
 
 ## 📚 Fine-Tuned Model
 This project leverages a fine-tuned BERT model, which can be accessed on Hugging Face:
